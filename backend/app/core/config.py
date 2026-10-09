@@ -39,9 +39,14 @@ class Settings:
 
     @property
     def database_url(self) -> str:
-        # Check if direct DATABASE_URL is provided in environment
+        # Check if direct DATABASE_URL is provided in environment (Render, Neon, Supabase, etc.)
         override = os.getenv("DATABASE_URL")
         if override:
+            # Cloud providers often give "postgres://" — SQLAlchemy needs "postgresql+psycopg://"
+            if override.startswith("postgres://"):
+                override = override.replace("postgres://", "postgresql+psycopg://", 1)
+            elif override.startswith("postgresql://") and "+psycopg" not in override:
+                override = override.replace("postgresql://", "postgresql+psycopg://", 1)
             return override
 
         # Safely URL-encode the password in case it contains special characters (@, :, /, #, etc.)

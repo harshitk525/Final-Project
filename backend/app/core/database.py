@@ -63,7 +63,12 @@ def ensure_database_exists() -> bool:
 
 def init_db() -> None:
     """Ensures database exists and creates all defined tables."""
-    ensure_database_exists()
+    import os
+    # On cloud platforms (Render, Neon, Supabase) DATABASE_URL is pre-set
+    # and the DB is already created — skip the admin-level creation step.
+    if not os.getenv("DATABASE_URL"):
+        ensure_database_exists()
+
     # Import all models so that Base.metadata has them registered
     import app.models.user
     import app.models.route
