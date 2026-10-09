@@ -1,0 +1,242 @@
+[
+  {
+    "id": "REP-001",
+    "reporter_id": "rep_101",
+    "text": "bhai dadar stn pe bheed bohot zyada hai, train 15 min se ruki hai Western Line pe",
+    "timestamp": "2026-10-09T11:30:00+05:30"
+  },
+  {
+    "id": "REP-002",
+    "reporter_id": "rep_102",
+    "text": "Dadar platform 3 signal red hai, Western Line slow trains stuck",
+    "timestamp": "2026-10-09T11:32:00+05:30"
+  },
+  {
+    "id": "REP-003",
+    "reporter_id": "rep_103",
+    "text": "Huge rush at ddr station, Western Line fast train cancelled",
+    "timestamp": "2026-10-09T11:34:00+05:30"
+  },
+  {
+    "id": "REP-004",
+    "reporter_id": "rep_101",
+    "text": "still stuck at dadaar western line, no movement at all!",
+    "timestamp": "2026-10-09T11:35:00+05:30"
+  },
+  {
+    "id": "REP-005",
+    "reporter_id": "rep_101",
+    "text": "Dadar western jammed fully packed dont come",
+    "timestamp": "2026-10-09T11:36:00+05:30"
+  },
+  {
+    "id": "REP-006",
+    "reporter_id": "rep_201",
+    "text": "Churchgate pe Central Line local cancel ho gayi",
+    "timestamp": "2026-10-09T11:20:00+05:30"
+  },
+  {
+    "id": "REP-007",
+    "reporter_id": "spammer_99",
+    "text": "alien attack at andheri train flying in air haha",
+    "timestamp": "2026-10-09T11:25:00+05:30"
+  },
+  {
+    "id": "REP-008",
+    "reporter_id": "rep_301",
+    "text": "andheri station platform 1 lift is broken, wheelchair people cannot go Western Line",
+    "timestamp": "2026-10-09T11:28:00+05:30"
+  },
+  {
+    "id": "REP-009",
+    "reporter_id": "rep_302",
+    "text": "andhri stn lift bandh pad gayi hai Western Line escalator also off",
+    "timestamp": "2026-10-09T11:31:00+05:30"
+  },
+  {
+    "id": "REP-010",
+    "reporter_id": "rep_303",
+    "text": "Broken elevator at Andheri for Western Line suburban platform",
+    "timestamp": "2026-10-09T11:33:00+05:30"
+  },
+  {
+    "id": "REP-011",
+    "reporter_id": "rep_401",
+    "text": "Kurla Central Line pe technical issue, heavy delays 20 mins",
+    "timestamp": "2026-10-09T11:15:00+05:30"
+  },
+  {
+    "id": "REP-012",
+    "reporter_id": "rep_402",
+    "text": "Central line at qurla stn packing work chal raha hai track pe",
+    "timestamp": "2026-10-09T11:18:00+05:30"
+  },
+  {
+    "id": "REP-013",
+    "reporter_id": "rep_403",
+    "text": "Kurla to Vidyavihar tracks slow speed Central Line",
+    "timestamp": "2026-10-09T11:22:00+05:30"
+  },
+  {
+    "id": "REP-014",
+    "reporter_id": "rep_501",
+    "text": "csmt pe cst main line normal chal rahi hai",
+    "timestamp": "2026-10-09T11:10:00+05:30"
+  },
+  {
+    "id": "REP-015",
+    "reporter_id": "rep_502",
+    "text": "CSMT station full crowd on Central Line due to morning rush",
+    "timestamp": "2026-10-09T11:12:00+05:30"
+  },
+  {
+    "id": "REP-016",
+    "reporter_id": "rep_601",
+    "text": "Ghatkopar stn pe Western Line bohot fast chal rahi hai",
+    "timestamp": "2026-10-09T11:05:00+05:30"
+  },
+  {
+    "id": "REP-017",
+    "reporter_id": "rep_701",
+    "text": "Versova to Andheri Metro Line 1 smooth sailing no delay",
+    "timestamp": "2026-10-09T11:40:00+05:30"
+  },
+  {
+    "id": "REP-018",
+    "reporter_id": "rep_702",
+    "text": "dn nagar metro station token counter line bohot lambi hai Metro Line 1",
+    "timestamp": "2026-10-09T11:42:00+05:30"
+  },
+  {
+    "id": "REP-019",
+    "reporter_id": "rep_703",
+    "text": "Marol Naka pe AC in Metro Line 1 is not working nicely but running",
+    "timestamp": "2026-10-09T11:44:00+05:30"
+  },
+  {
+    "id": "REP-020",
+    "reporter_id": "rep_801",
+    "text": "borivali stn platform 8 waterlogging near track Western Line",
+    "timestamp": "2026-10-09T11:15:00+05:30"
+  },
+  {
+    "id": "REP-021",
+    "reporter_id": "rep_802",
+    "text": "bvi station pani bhar gaya hai Western Line slow speed",
+    "timestamp": "2026-10-09T11:17:00+05:30"
+  },
+  {
+    "id": "REP-022",
+    "reporter_id": "rep_803",
+    "text": "Borivali track water buildup causing minor delays on Western Line",
+    "timestamp": "2026-10-09T11:20:00+05:30"
+  },
+  {
+    "id": "REP-023",
+    "reporter_id": "rep_801",
+    "text": "borivali stn still slow Western Line update",
+    "timestamp": "2026-10-09T11:22:00+05:30"
+  },
+  {
+    "id": "REP-024",
+    "reporter_id": "rep_901",
+    "text": "Wadala Road overhead wire issue Harbour Line trains stuck",
+    "timestamp": "2026-10-09T11:25:00+05:30"
+  },
+  {
+    "id": "REP-025",
+    "reporter_id": "rep_902",
+    "text": "vadala stn pe blast hua spark pantograph pe Harbour Line",
+    "timestamp": "2026-10-09T11:27:00+05:30"
+  },
+  {
+    "id": "REP-026",
+    "reporter_id": "rep_903",
+    "text": "Harbour line stranded at Wadala Road stn",
+    "timestamp": "2026-10-09T11:29:00+05:30"
+  },
+  {
+    "id": "REP-027",
+    "reporter_id": "rep_1001",
+    "text": "Bandra Western Line everything clear on time departure",
+    "timestamp": "2026-10-09T11:10:00+05:30"
+  },
+  {
+    "id": "REP-028",
+    "reporter_id": "rep_1002",
+    "text": "bandra stn Western Line pe stampede like crowd cannot enter",
+    "timestamp": "2026-10-09T11:12:00+05:30"
+  },
+  {
+    "id": "REP-029",
+    "reporter_id": "rep_1101",
+    "text": "Thane Central Line slow local 10 min late",
+    "timestamp": "2026-10-09T11:00:00+05:30"
+  },
+  {
+    "id": "REP-030",
+    "reporter_id": "rep_1102",
+    "text": "Kalyan station crowd huge Central Line",
+    "timestamp": "2026-10-09T11:02:00+05:30"
+  },
+  {
+    "id": "REP-031",
+    "reporter_id": "rep_1201",
+    "text": "Byculla stn Central Line ramp accessible clear",
+    "timestamp": "2026-10-09T11:05:00+05:30"
+  },
+  {
+    "id": "REP-032",
+    "reporter_id": "rep_1301",
+    "text": "Mumbai Central Western Line AC local on time",
+    "timestamp": "2026-10-09T11:15:00+05:30"
+  },
+  {
+    "id": "REP-033",
+    "reporter_id": "rep_1401",
+    "text": "Goregaon Harbour Line platform empty no train in sight",
+    "timestamp": "2026-10-09T11:18:00+05:30"
+  },
+  {
+    "id": "REP-034",
+    "reporter_id": "rep_1501",
+    "text": "Vashi bridge crossing heavy wind Harbour Line slow",
+    "timestamp": "2026-10-09T11:22:00+05:30"
+  },
+  {
+    "id": "REP-035",
+    "reporter_id": "rep_1601",
+    "text": "Panvel Harbour Line local departed on time",
+    "timestamp": "2026-10-09T11:24:00+05:30"
+  },
+  {
+    "id": "REP-036",
+    "reporter_id": "spammer_99",
+    "text": "free tickets distribute ho rahe hai Dadar pe",
+    "timestamp": "2026-10-09T11:26:00+05:30"
+  },
+  {
+    "id": "REP-037",
+    "reporter_id": "rep_1701",
+    "text": "Malad Western Line escalators off",
+    "timestamp": "2026-10-09T11:30:00+05:30"
+  },
+  {
+    "id": "REP-038",
+    "reporter_id": "rep_1801",
+    "text": "Kandivali stn Western Line minor rush",
+    "timestamp": "2026-10-09T11:32:00+05:30"
+  },
+  {
+    "id": "REP-039",
+    "reporter_id": "rep_1901",
+    "text": "Dahisar station Western Line clean and running",
+    "timestamp": "2026-10-09T11:34:00+05:30"
+  },
+  {
+    "id": "REP-040",
+    "reporter_id": "rep_2001",
+    "text": "Sandhurst Road Central Line platform maintenance work ongoing",
+    "timestamp": "2026-10-09T11:36:00+05:30"
+  }
+]

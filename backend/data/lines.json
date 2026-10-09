@@ -1,0 +1,48 @@
+{
+  "Western Line": [
+    "Churchgate",
+    "Marine Lines",
+    "Charni Road",
+    "Grant Road",
+    "Mumbai Central",
+    "Dadar",
+    "Bandra",
+    "Andheri",
+    "Jogeshwari",
+    "Goregaon",
+    "Malad",
+    "Kandivali",
+    "Borivali",
+    "Dahisar"
+  ],
+  "Central Line": [
+    "Chhatrapati Shivaji Maharaj Terminus",
+    "Masjid",
+    "Sandhurst Road",
+    "Byculla",
+    "Dadar",
+    "Kurla",
+    "Ghatkopar",
+    "Thane",
+    "Kalyan"
+  ],
+  "Harbour Line": [
+    "Chhatrapati Shivaji Maharaj Terminus",
+    "Masjid",
+    "Sandhurst Road",
+    "Wadala Road",
+    "Bandra",
+    "Kurla",
+    "Chembur",
+    "Vashi",
+    "Panvel"
+  ],
+  "Metro Line 1": [
+    "Versova",
+    "D.N. Nagar",
+    "Andheri",
+    "Western Express Highway",
+    "Marol Naka",
+    "Ghatkopar"
+  ]
+}

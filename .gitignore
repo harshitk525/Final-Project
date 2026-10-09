@@ -1,0 +1,56 @@
+# ============================================================
+# Vektor — Root .gitignore
+# ============================================================
+
+# --- Python / Backend ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+!backend/.env.example
+*.log
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Node / Frontend ---
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+*.local
+
+# --- Environment files (NEVER commit real secrets) ---
+.env
+.env.local
+.env.production
+.env.*.local
+# Keep example files
+!.env.example
+
+# --- IDE & OS ---
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Large archives (already in repo as zip) ---
+*.zip
+
+# --- Misc ---
+scratch/
+transcript_*.txt

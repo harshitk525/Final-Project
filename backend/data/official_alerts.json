@@ -1,0 +1,47 @@
+[
+  {
+    "id": "OFF-W01",
+    "line": "Western Line",
+    "station": "Dadar",
+    "type": "Signal Failure",
+    "description": "Signal cabling fault near Dadar platform 3. Expect 15-20 min delays on down fast line.",
+    "start_time": "2026-10-09T08:00:00+05:30",
+    "end_time": "2026-10-09T18:00:00+05:30"
+  },
+  {
+    "id": "OFF-C01",
+    "line": "Central Line",
+    "station": "Kurla",
+    "type": "Track Maintenance",
+    "description": "Emergency track packing work between Kurla and Vidyavihar.",
+    "start_time": "2026-10-09T09:00:00+05:30",
+    "end_time": "2026-10-09T15:00:00+05:30"
+  },
+  {
+    "id": "OFF-M01",
+    "line": "Metro Line 1",
+    "station": "Andheri",
+    "type": "Technical Delay",
+    "description": "Rolling stock inspection at Andheri. Headways extended to 10 minutes.",
+    "start_time": "2026-10-09T07:30:00+05:30",
+    "end_time": "2026-10-09T14:30:00+05:30"
+  },
+  {
+    "id": "OFF-H01",
+    "line": "Harbour Line",
+    "station": "Wadala Road",
+    "type": "Overhead Equipment Issue",
+    "description": "Pantograph entangling reported at Wadala crossover. Harbour line services delayed.",
+    "start_time": "2026-10-09T10:15:00+05:30",
+    "end_time": "2026-10-09T16:00:00+05:30"
+  },
+  {
+    "id": "OFF-W02",
+    "line": "Western Line",
+    "station": "Borivali",
+    "type": "Platform Overcrowding",
+    "description": "Slow movement of suburban trains due to heavy monsoon water buildup.",
+    "start_time": "2026-10-09T06:00:00+05:30",
+    "end_time": "2026-10-09T22:00:00+05:30"
+  }
+]

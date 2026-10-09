@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CSMT",
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "aliases": ["CSMT", "csmt", "cst", "CST", "vt", "VT", "Victoria Terminus", "csmt stn", "badi vt"],
+    "lat": 18.9398,
+    "lon": 72.8354,
+    "lines": ["Central Line", "Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "MSD",
+    "name": "Masjid",
+    "aliases": ["Masjid", "masjid", "masjid bunder", "masjid stn"],
+    "lat": 18.9535,
+    "lon": 72.8384,
+    "lines": ["Central Line", "Harbour Line"],
+    "step_free": false
+  },
+  {
+    "id": "SND",
+    "name": "Sandhurst Road",
+    "aliases": ["Sandhurst Road", "sandhurst road", "sandhurst", "sandhust", "snd"],
+    "lat": 18.9610,
+    "lon": 72.8398,
+    "lines": ["Central Line", "Harbour Line"],
+    "step_free": false
+  },
+  {
+    "id": "BYC",
+    "name": "Byculla",
+    "aliases": ["Byculla", "byculla", "bhoykhala", "bhayeckala", "byculla stn"],
+    "lat": 18.9772,
+    "lon": 72.8329,
+    "lines": ["Central Line"],
+    "step_free": true
+  },
+  {
+    "id": "DDR_C",
+    "name": "Dadar",
+    "aliases": ["Dadar", "dadar", "dadaar", "dader", "ddr", "dadar stn", "dadar central", "dadar western", "dadr"],
+    "lat": 19.0178,
+    "lon": 72.8478,
+    "lines": ["Central Line", "Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "KRL",
+    "name": "Kurla",
+    "aliases": ["Kurla", "kurla", "qurla", "kurla stn", "kurlah"],
+    "lat": 19.0657,
+    "lon": 72.8793,
+    "lines": ["Central Line", "Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "GKP",
+    "name": "Ghatkopar",
+    "aliases": ["Ghatkopar", "ghatkopar", "ghatkopr", "gatkopar", "ghatkopar stn"],
+    "lat": 19.0864,
+    "lon": 72.9081,
+    "lines": ["Central Line", "Metro Line 1"],
+    "step_free": true
+  },
+  {
+    "id": "TNA",
+    "name": "Thane",
+    "aliases": ["Thane", "thane", "thana", "thane stn", "thaney"],
+    "lat": 19.1860,
+    "lon": 72.9759,
+    "lines": ["Central Line"],
+    "step_free": true
+  },
+  {
+    "id": "KYN",
+    "name": "Kalyan",
+    "aliases": ["Kalyan", "kalyan", "kalyan jn", "klyan", "kalyan stn"],
+    "lat": 19.2354,
+    "lon": 73.1299,
+    "lines": ["Central Line"],
+    "step_free": true
+  },
+  {
+    "id": "CCG",
+    "name": "Churchgate",
+    "aliases": ["Churchgate", "churchgate", "ccg", "church gate", "churchget", "churchget stn"],
+    "lat": 18.9322,
+    "lon": 72.8264,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "MEL",
+    "name": "Marine Lines",
+    "aliases": ["Marine Lines", "marine lines", "marin lines", "marine line"],
+    "lat": 18.9442,
+    "lon": 72.8236,
+    "lines": ["Western Line"],
+    "step_free": false
+  },
+  {
+    "id": "CYR",
+    "name": "Charni Road",
+    "aliases": ["Charni Road", "charni road", "charni rod", "charni rd"],
+    "lat": 18.9519,
+    "lon": 72.8189,
+    "lines": ["Western Line"],
+    "step_free": false
+  },
+  {
+    "id": "GTR",
+    "name": "Grant Road",
+    "aliases": ["Grant Road", "grant road", "grant rd", "grantroad"],
+    "lat": 18.9632,
+    "lon": 72.8159,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "MMCT",
+    "name": "Mumbai Central",
+    "aliases": ["Mumbai Central", "mumbai central", "bct", "bombay central", "mmct", "central local"],
+    "lat": 18.9696,
+    "lon": 72.8193,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "BA",
+    "name": "Bandra",
+    "aliases": ["Bandra", "bandra", "ba", "vandre", "bandra stn", "bandra local", "bandra term"],
+    "lat": 19.0544,
+    "lon": 72.8406,
+    "lines": ["Western Line", "Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "AND",
+    "name": "Andheri",
+    "aliases": ["Andheri", "andheri", "andhri", "andheri stn", "andheri local", "andheri w", "andheri e"],
+    "lat": 19.1197,
+    "lon": 72.8468,
+    "lines": ["Western Line", "Metro Line 1"],
+    "step_free": true
+  },
+  {
+    "id": "JOS",
+    "name": "Jogeshwari",
+    "aliases": ["Jogeshwari", "jogeshwari", "jogeshwari stn", "jgeshwari"],
+    "lat": 19.1360,
+    "lon": 72.8491,
+    "lines": ["Western Line"],
+    "step_free": false
+  },
+  {
+    "id": "GMN",
+    "name": "Goregaon",
+    "aliases": ["Goregaon", "goregaon", "gorgaon", "goregao", "goregaon stn"],
+    "lat": 19.1646,
+    "lon": 72.8493,
+    "lines": ["Western Line", "Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "MLD",
+    "name": "Malad",
+    "aliases": ["Malad", "malad", "malaad", "malad stn", "malad w"],
+    "lat": 19.1866,
+    "lon": 72.8486,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "KND",
+    "name": "Kandivali",
+    "aliases": ["Kandivali", "kandivali", "kandivli", "kandiwali", "kandivali stn"],
+    "lat": 19.2045,
+    "lon": 72.8524,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "BVI",
+    "name": "Borivali",
+    "aliases": ["Borivali", "borivali", "borivli", "bvi", "boriwali", "borivali stn"],
+    "lat": 19.2298,
+    "lon": 72.8573,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "DHS",
+    "name": "Dahisar",
+    "aliases": ["Dahisar", "dahisar", "dahisar stn", "daheesar"],
+    "lat": 19.2501,
+    "lon": 72.8593,
+    "lines": ["Western Line"],
+    "step_free": true
+  },
+  {
+    "id": "VDLR",
+    "name": "Wadala Road",
+    "aliases": ["Wadala Road", "wadala road", "wadala", "vadala", "wadala stn"],
+    "lat": 19.0169,
+    "lon": 72.8587,
+    "lines": ["Harbour Line"],
+    "step_free": false
+  },
+  {
+    "id": "CHM",
+    "name": "Chembur",
+    "aliases": ["Chembur", "chembur", "chambur", "chembur stn"],
+    "lat": 19.0624,
+    "lon": 72.8997,
+    "lines": ["Harbour Line"],
+    "step_free": false
+  },
+  {
+    "id": "VSH",
+    "name": "Vashi",
+    "aliases": ["Vashi", "vashi", "washi", "vashi stn", "navi mumbai vashi"],
+    "lat": 19.0645,
+    "lon": 72.9987,
+    "lines": ["Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "PNVL",
+    "name": "Panvel",
+    "aliases": ["Panvel", "panvel", "panwel", "panvel stn"],
+    "lat": 18.9894,
+    "lon": 73.1212,
+    "lines": ["Harbour Line"],
+    "step_free": true
+  },
+  {
+    "id": "VR_SOV",
+    "name": "Versova",
+    "aliases": ["Versova", "versova", "versova metro", "varsova"],
+    "lat": 19.1315,
+    "lon": 72.8166,
+    "lines": ["Metro Line 1"],
+    "step_free": true
+  },
+  {
+    "id": "DN_NGR",
+    "name": "D.N. Nagar",
+    "aliases": ["D.N. Nagar", "dn nagar", "DN Nagar", "dn nagar metro", "d.n nagar"],
+    "lat": 19.1256,
+    "lon": 72.8277,
+    "lines": ["Metro Line 1"],
+    "step_free": true
+  },
+  {
+    "id": "WEH",
+    "name": "Western Express Highway",
+    "aliases": ["Western Express Highway", "WEH", "weh", "weh metro", "highway metro"],
+    "lat": 19.1158,
+    "lon": 72.8564,
+    "lines": ["Metro Line 1"],
+    "step_free": true
+  },
+  {
+    "id": "MRL",
+    "name": "Marol Naka",
+    "aliases": ["Marol Naka", "marol naka", "marol", "marol metro"],
+    "lat": 19.1114,
+    "lon": 72.8804,
+    "lines": ["Metro Line 1"],
+    "step_free": true
+  }
+]
